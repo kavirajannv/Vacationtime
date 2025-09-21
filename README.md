@@ -11,3 +11,5 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using Ty![Uploading Screenshot 2025-09-12 195739.png…]()
 peScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1919" height="1079" alt="Screenshot 2025-09-12 195755" src="https://github.com/user-attachments/assets/c9ebcd84-1bb3-4003-a477-630b8ec85c86" />
+<img width="1918" height="1078" alt="Screenshot 2025-09-12 200159" src="https://github.com/user-attachments/assets/e2960ce8-11ee-4e06-8491-74f91a482636" />
