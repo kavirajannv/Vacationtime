@@ -1,5 +1,4 @@
-# React + Vite
-**
+# React + Vite**
 
 
 ## 🚀 Features
